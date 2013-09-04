@@ -27,6 +27,8 @@ One of these options can be used:
 
       ├── index.html                   -- the main template file for the app
       ├── 404.html                     -- 404 template file
+      |__ Procfile                     -- list of processes to run on Heroku
+      |__ package.json                 -- NPM package depencies
       ├── css
       │   └── app.css                  -- app specific styles
       ├── js
@@ -39,3 +41,18 @@ One of these options can be used:
       ├── test                         -- tests go here
       └── views
           └── mapview.html             -- partial template file with the map view
+
+## Live Demo
+
+Now for the exciting part.. demo of the app deployed to Heroku:
+ [SF Movies App](http://gentle-garden-9581.herokuapp.com/index.html)
+
+
+## TODO
+
+Quite a few things:
+
+* Add test cases using Karma test framework 
+* Bower/Grunt integration to improve dev work flow to automate and configure dependencies
+* Logging mechanism to consider Papertail/Loggly/Logentries
+* and more nice stuff :)
