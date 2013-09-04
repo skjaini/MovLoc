@@ -48,6 +48,11 @@ Now for the exciting part.. demo of the app deployed to Heroku:
  [SF Movies App](http://gentle-garden-9581.herokuapp.com/index.html)
 
 
+## Screenshots
+
+![SF Movie Location - Screenshot 1](https://raw.github.com/skjaini/ucode/master/img/SF_Movie_Location_1.png)
+![SF Movie Location - Screenshot 2](https://raw.github.com/skjaini/ucode/master/img/SF_Movie_Location_2.png)
+
 ## TODO
 
 Quite a few things:
