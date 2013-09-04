@@ -1,6 +1,6 @@
 {
   "name": "ucode-app",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Film locations on map",
   "main": "scripts/web-server.js",
   "scripts": {
